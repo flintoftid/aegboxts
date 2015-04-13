@@ -1,4 +1,4 @@
-![](https://bytebucket.org/uoyaeg/aegboxts/Physical_Objects/Photos/CWAB-OF-A2.jpg "AEG Box Test Suite")
+![](https://bitbucket.org/uoyaeg/aegboxts/src/tip/Physical_Objects/Photos/CWAB-OF-A2.jpg "AEG Box Test Suite")
 
 # AEG Box Test Suite: A modular test suite for validation of electromagnetic solvers
 
