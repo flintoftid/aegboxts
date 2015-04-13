@@ -100,7 +100,7 @@ The following publications have made use of elements of the test suite:
 
 5. G. J. Rigden, “EMA3D Numerical Results for the CEMEMC’12 Case 2: Validation BoxEMA3D Numerical Results for the CEMEMC’12 Case 3: LLSC Test for Shielded Harness”, Computational Electromagnetics for EMC 2013 (CEMEMC'13), Granada, Spain, 19-21 March, 2013.
 
-6. J. F. Dawson, C. J. Smartt, I. D. Flintoft and C. Christopoulos, “Validating a Numerical Electromagnetic Solver in a Reverberant Environment”, IET Seventh International Conference on Computation in Electromagnetics, 7-10 April 2008, Quality Hotel, Brighton, UK, pp. 42-43. Print ISBN: 978-0-86341-891-4. DOI: [10.1049/cp:20080214](http://dx.doi.org/10.1049/cp:20080214).
+6. J. F. Dawson, C. J. Smartt, I. D. Flintoft and C. Christopoulos, “Validating a Numerical Electromagnetic Solver in a Reverberant Environment”, IET Seventh International Conference on Computation in Electromagnetics, 7-10 April 2008, Quality Hotel, Brighton, UK, pp. 42-43. Print ISBN: 978-0-86341-891-4. DOI: [10.1049/cp:20080214](http://dx.doi.org/10.1049).
 
 ## How to contribute
 
