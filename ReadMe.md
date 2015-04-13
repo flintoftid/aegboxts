@@ -16,7 +16,7 @@ research programmes (see [Credits](#Credits) below).
 The test-suite includes the following components that can be assemble into a range
 of overall test-cases:
 
-* A metal enclosure with an interchangable "front plate" (EN).
+* A metal enclosure with an interchangeable "front plate" (EN).
 
 * The options for the front plate are:
 
@@ -56,13 +56,9 @@ The test-suite specification is provided in a written [Specification][] Document
 
 ## CAD
 
-A basic CAD file for the main components of the test suite in [Gsmh][]'s ".geo" format
+A basic CAD file for the main components of the test suite in [Gmsh][]'s ".geo" format
 is included in the source distribution. This includes the EN, A0, A1, A2, SW, PA, PB,
 CW and GP elements.
-
-## Meshes
-
-Unstructured meshes for the basic configurations can be generated from the [Gmsh][] CAD.
 
 ## Physical objects
 
@@ -131,21 +127,20 @@ The test suite specification and associated files are licensed under the terms d
 
 ## Credits
 
-The components of the test-suite have been developed over a number of years and research programmes. We grateful acknowledge
-the following sources of support:
+The components of the test-suite have been developed over a number of years and research programmes. We grateful acknowledge the following sources of support:
 
-1. The FLAVIIR project which was a five year research programme looking at technologies for future 
-   unmanned air vehicles (UAV) funded jointly by BAE SYSTEMS and EPSRC [FLAVIIR][]
+1. The [FLAVIIR][] project which was a five year research programme looking at technologies for future 
+   unmanned air vehicles (UAV) funded jointly by [BAES][] and [EPSRC][].
 
-2. The EU FP7 High Intensity Radiated Field Synthetic Environment (HIRF-SE) research programme
-   that developed a simulation framework to aid aeronautical certification against electromagnetic threats [HIRFSE][].
+2. The [EU FP7][] High Intensity Radiated Field Synthetic Environment [HIRF-SE][] research programme
+   that developed a simulation framework to aid aeronautical certification against electromagnetic threats.
 
 In addition we acknowledge the following for there specific contributions and guidance of various aspects of the
 test-suite:
 
-1. John-Phillipe Parmantier from ONERA.
+1. John-Phillipe Parmantier from [ONERA][].
 
-2. John Kazik from IDS-UK.
+2. John Kazik from [IDS-UK][].
 
 ## Related links
 
@@ -162,15 +157,17 @@ test-suite:
 [Department of Electronics]: http://www.elec.york.ac.uk
 [AEG]: http://www.elec.york.ac.uk/research/physLayer/appliedEM.html
 [FLAVIIR]: http://www.flaviir.com
-[HIRFSE]: http://ec.europa.eu/research/transport/projects/items/hirf_se_en.htm
+[HIRF-SE]: http://ec.europa.eu/research/transport/projects/items/hirf_se_en.htm
 [ONERA]: http://www.onera.fr/en
-[IDSUK]: https://www.idscorporation.com/uk
+[IDS-UK]: https://www.idscorporation.com/uk
+[EPSRC]: http://www.epsrc.ac.uk
+[BAES]: http://www.baesystems.com
+[EU FP7]: http://cordis.europa.eu/fp7/home_en.html
 
 [CEM]: http://en.wikipedia.org/wiki/Computational_electromagnetics
 [EMC]: http://en.wikipedia.org/wiki/Electromagnetic_compatibility
 [Gmsh]: http://geuz.org/gmsh
 [Mercurial]: http://mercurial.selenic.com
 
-[CC-BY-ND]: http://creativecommons.org/licenses/by-nd/4.0/deed.en_GB
 [Licence.md]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Licence.md
 [Specification]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Specification/Specification_v1.doc

@@ -1,8 +1,63 @@
+2015-04-13  Ian David Flintoft  <ian.flintoft@york.ac.uk>
+
+	* CAD/overview.jpg:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	added CAD/overview.jpg
+	[dceb5146fc71] [tip]
+
 2015-04-13  Ian Flintoft  <ian.flintoft@york.ac.uk>
 
 	* ReadMe.md:
 	ReadMe.md edited online with Bitbucket
-	[a629e761bcd0] [tip]
+	[b795840ab1ea]
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[f8abebdf18a3]
+
+2015-04-13  Ian David Flintoft  <ian.flintoft@york.ac.uk>
+
+	* user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch merge
+	branch 'default' changed ReadMe.md
+	[bd07176e8178]
+
+2015-04-13  Ian Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[aa66e2d23c6c]
+
+2015-04-13  Ian David Flintoft  <ian.flintoft@york.ac.uk>
+
+	* Physical_Objects/Photos/CWAB-OF-A2.jpg:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+
+	added Physical_Objects/Photos/CWAB-OF-A2.jpg
+	[b5c770c96494]
+
+	* ReadMe.md:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+
+	changed ReadMe.md
+
+	 Workround for colon in link.
+	[d0fe2b87d7e2]
+
+	* ChangeLog.txt:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+
+	changed ChangeLog.txt
+	[594b29f323cd]
+
+2015-04-13  Ian Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[3ce889580d50]
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[a629e761bcd0]
 
 	* ReadMe.md:
 	ReadMe.md edited online with Bitbucket
