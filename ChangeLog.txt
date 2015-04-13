@@ -1,3 +1,35 @@
+2015-04-13  Ian Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[a629e761bcd0] [tip]
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[03e604e94644]
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[ebf27f725f41]
+
+2015-04-13  Ian David Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ChangeLog.txt:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+
+	added ChangeLog.txt
+	[ea22f7f451cb]
+
+2015-04-13  Ian Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[0183cd154080]
+
+	* ReadMe.md:
+	ReadMe.md edited online with Bitbucket
+	[165263f72b0d]
+
 2015-04-13  Ian David Flintoft  <ian.flintoft@york.ac.uk>
 
 	* CAD/aegboxts.geo, Licence.md, Measurements/Datasets/OF-CWAB-A0.dat,
@@ -34,5 +66,5 @@
 	Models/LS22_RAM/ls22-perm.dat added Models/LS22_RAM/ls22-pr-4.dat
 	added Models/LS22_RAM/ls22-rf-4.dat added ReadMe.md added
 	Specification/Specification_v1.doc added ToDo.txt
-	[daaf4f676231] [tip]
+	[daaf4f676231]
 
