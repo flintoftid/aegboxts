@@ -20,33 +20,33 @@ of overall test-cases:
 
 * The options for the front plate are:
 
-  - Absent, i.e. open-face (OF).
+    - Absent, i.e. open-face (OF).
   
-  - Completely closed by a metal plate (CF).
+    - Completely closed by a metal plate (CF).
   
-  - A plate with large circular and square apertures (GP).
+    - A plate with large circular and square apertures (GP).
   
-  - A plate with an array of small circular holes (PP).
+    - A plate with an array of small circular holes (PP).
   
-  - A plate with a representation of an overlapped panel joint (PJ).
+    - A plate with a representation of an overlapped panel joint (PJ).
 
 * Wires can be connected between two test-port on top face of the box:
 
-  - Short monopole probes (PAPB).
+    - Short monopole probes (PAPB).
 
-  - A straight wire (SW).
+    - A straight wire (SW).
   
-  - A curve wire (CW).
+    - A curve wire (CW).
   
-  - An eight wire loom (LM).
+    - An eight wire loom (LM).
   
 * The internal cavity can be load with lossy dielectric material:
 
-  - Absent, i.e. no loading (A0).
+    - Absent, i.e. no loading (A0).
   
-  - A cube of lossy dielectric on the back left corner of he box floor (A1).
+    - A cube of lossy dielectric on the back left corner of he box floor (A1).
   
-  - A cube of lossy dielectric in the centre of he box floor (A2).
+    - A cube of lossy dielectric in the centre of he box floor (A2).
   
 Models for the materials are provided in the specification.
 
