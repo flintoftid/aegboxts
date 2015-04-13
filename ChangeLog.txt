@@ -1,0 +1,38 @@
+2015-04-13  Ian David Flintoft  <ian.flintoft@york.ac.uk>
+
+	* CAD/aegboxts.geo, Licence.md, Measurements/Datasets/OF-CWAB-A0.dat,
+	Measurements/Datasets/OF-CWAB-A2.dat, Measurements/Datasets/OF-
+	PAPB-A0.dat, Measurements/Datasets/OF-PAPB-A1.dat,
+	Measurements/Datasets/OF-PAPB-A2.dat, Measurements/Datasets/OF-
+	SWAB-A2.dat, Measurements/Datasets/PP-PAPB-A0.dat,
+	Measurements/Datasets/PP-PAPB-A1.dat, Measurements/Datasets/PP-
+	PAPB-A2.dat, Measurements/Datasets/PP-SWAB-A0.dat,
+	Measurements/Datasets/PP-SWAB-A2.dat,
+	Measurements/Datasets/ReadMe.txt,
+	Measurements/MeasurementReport.doc,
+	Measurements/Probe_Antenna_Factor/probe1-af.dat,
+	Models/Isotropic_Perf_Plate/pp10-sparam2.dat,
+	Models/Isotropic_Perf_Plate/pp10-zparam2.dat,
+	Models/LS22_RAM/ls22-perm.dat, Models/LS22_RAM/ls22-pr-4.dat,
+	Models/LS22_RAM/ls22-rf-4.dat, ReadMe.md,
+	Specification/Specification_v1.doc, ToDo.txt:
+	Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+
+	added CAD/aegboxts.geo added Licence.md added Measurements/Datasets
+	/OF-CWAB-A0.dat added Measurements/Datasets/OF-CWAB-A2.dat added
+	Measurements/Datasets/OF-PAPB-A0.dat added Measurements/Datasets/OF-
+	PAPB-A1.dat added Measurements/Datasets/OF-PAPB-A2.dat added
+	Measurements/Datasets/OF-SWAB-A2.dat added Measurements/Datasets/PP-
+	PAPB-A0.dat added Measurements/Datasets/PP-PAPB-A1.dat added
+	Measurements/Datasets/PP-PAPB-A2.dat added Measurements/Datasets/PP-
+	SWAB-A0.dat added Measurements/Datasets/PP-SWAB-A2.dat added
+	Measurements/Datasets/ReadMe.txt added
+	Measurements/MeasurementReport.doc added
+	Measurements/Probe_Antenna_Factor/probe1-af.dat added
+	Models/Isotropic_Perf_Plate/pp10-sparam2.dat added
+	Models/Isotropic_Perf_Plate/pp10-zparam2.dat added
+	Models/LS22_RAM/ls22-perm.dat added Models/LS22_RAM/ls22-pr-4.dat
+	added Models/LS22_RAM/ls22-rf-4.dat added ReadMe.md added
+	Specification/Specification_v1.doc added ToDo.txt
+	[daaf4f676231] [tip]
+
