@@ -9,7 +9,7 @@ typical Electromagnetic Compatibility ([EMC][]) applications and are therefore
 of particular utility for validating tools for use in this application area. 
 The test suite was primarily developed in the [Department of Electronics][] at the
 [University of York][] and has been used and developed in a number of large 
-research programmes (see [Credits][] below).
+research programmes (see [Credits](#Credits) below).
 
 ## Test suite features
 
@@ -62,7 +62,7 @@ CW and GP elements.
 
 ## Meshes
 
-Unstructured meshes for the basic configurations can be generated from the [Gsmh][] CAD.
+Unstructured meshes for the basic configurations can be generated from the [Gmsh][] CAD.
 
 ## Physical objects
 
@@ -153,7 +153,7 @@ test-suite:
 
 * The AEG FDTD solver [Vulture](https://bitbucket.org/uoyaeg/vulture). 
 
-* The GGI TLM solver [GGI_TLM}(https://github.com/ggiemr/GGI_TLM). 
+* The GGI TLM solver [GGI_TLM](https://github.com/ggiemr/GGI_TLM). 
 
 
 [Dr Ian Flintoft]: http://www.elec.york.ac.uk/staff/idf1.html
@@ -173,4 +173,4 @@ test-suite:
 
 [CC-BY-ND]: http://creativecommons.org/licenses/by-nd/4.0/deed.en_GB
 [Licence.md]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Licence.md
-[Specification]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Specification/Specification.doc
+[Specification]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Specification/Specification_v1.doc
