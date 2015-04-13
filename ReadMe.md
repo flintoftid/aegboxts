@@ -1,11 +1,11 @@
-![](https://bytebucket.org/uoyaeg/aegboxtc/wiki/box.jpg "AEG Box Test Case")
+![](https://bytebucket.org/uoyaeg/aegboxts/wiki/box.jpg "AEG Box Test Suite")
 
-# AEG Box Test Case: A modular test-suite for validation of electromagnetic solvers
+# AEG Box Test Suite: A modular test suite for validation of electromagnetic solvers
 
-The Applied Electromagnetics Group ([AEG][]) box test-suite, *aegboxtc*,
-is a suite of validation test-cases for computational electromagnetics ([CEM][])
+The Applied Electromagnetics Group ([AEG][]) box test suite, *aegboxts*,
+is a suite of validation test cases for computational electromagnetics ([CEM][])
 simulation tools. The test-cases were designed with to be representative of 
-typical Electromagnetic Compatibility ([EMC][]) applications and are therfore 
+typical Electromagnetic Compatibility ([EMC][]) applications and are therefore 
 of particular utility for validating tools for use in this application area. 
 The test suite was primarily developed in the [Department of Electronics][] at the
 [University of York][] and has been used and developed in a number of large 
@@ -16,7 +16,7 @@ research programmes (see [Credits][] below).
 The test-suite includes the following components that can be assemble into a range
 of overall test-cases:
 
-* A metal enclosure with an interchangle "front plate" (EN).
+* A metal enclosure with an interchangable "front plate" (EN).
 
 * The options for the front plate are:
 
@@ -44,9 +44,9 @@ of overall test-cases:
 
   - Absent, i.e. no loading (A0).
   
-  - A cube of lossy dielctric on the back left corner of he box floor (A1).
+  - A cube of lossy dielectric on the back left corner of he box floor (A1).
   
-  - A cube of lossy dielctric in the centre of he box floor (A2).
+  - A cube of lossy dielectric in the centre of he box floor (A2).
   
 Models for the materials are provided in the specification.
 
@@ -57,7 +57,7 @@ The test-suite specification is provided in a written [Specification][] Document
 ## CAD
 
 A basic CAD file for the main components of the test suite in [Gsmh][]'s ".geo" format
-is included in the source distrbiution. This includes the EN, A0, A1, A2, SW, PA, PB,
+is included in the source distribution. This includes the EN, A0, A1, A2, SW, PA, PB,
 CW and GP elements.
 
 ## Meshes
@@ -138,9 +138,9 @@ the following sources of support:
    unmanned air vehicles (UAV) funded jointly by BAE SYSTEMS and EPSRC [FLAVIIR][]
 
 2. The EU FP7 High Intensity Radiated Field Synthetic Environment (HIRF-SE) research programme
-   that developed a simulation framework to aid aeronautical certifciation against electromagnetic threats [HIRFSE][].
+   that developed a simulation framework to aid aeronautical certification against electromagnetic threats [HIRFSE][].
 
-In addition we acknowlege the following for there specific contributions and guidance of various aspects of the
+In addition we acknowledge the following for there specific contributions and guidance of various aspects of the
 test-suite:
 
 1. John-Phillipe Parmantier from ONERA.
@@ -158,10 +158,13 @@ test-suite:
 
 [Dr Ian Flintoft]: http://www.elec.york.ac.uk/staff/idf1.html
 [Dr John Dawson]: http://www.elec.york.ac.uk/staff/jfd1.html
-
 [University of York]: http://www.york.ac.uk
 [Department of Electronics]: http://www.elec.york.ac.uk
 [AEG]: http://www.elec.york.ac.uk/research/physLayer/appliedEM.html
+[FLAVIIR]: http://www.flaviir.com
+[HIRFSE]: http://ec.europa.eu/research/transport/projects/items/hirf_se_en.htm
+[ONERA]: http://www.onera.fr/en
+[IDSUK]: https://www.idscorporation.com/uk
 
 [CEM]: http://en.wikipedia.org/wiki/Computational_electromagnetics
 [EMC]: http://en.wikipedia.org/wiki/Electromagnetic_compatibility
@@ -169,11 +172,5 @@ test-suite:
 [Mercurial]: http://mercurial.selenic.com
 
 [CC-BY-ND]: http://creativecommons.org/licenses/by-nd/4.0/deed.en_GB
-[Licence.md]: https://bitbucket.org/uoyaeg/aegmesher/src/tip/Licence.md
-[Licence.md]: https://bitbucket.org/uoyaeg/aegmesher/src/tip/Specification/AEG_Box_Testsuite.doc
-
-[FLAVIIR]: http://www.flaviir.com
-[HIRFSE]: http://ec.europa.eu/research/transport/projects/items/hirf_se_en.htm
-[ONERA]: http://www.onera.fr/en
-[IDSUK]: https://www.idscorporation.com/uk
-
+[Licence.md]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Licence.md
+[Specification]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Specification/Specification.doc
