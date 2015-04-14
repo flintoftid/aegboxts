@@ -66,7 +66,7 @@ Many parts of the test suite have been implemented physically and measured in th
 laboratories at the [University of York][]. Below is an example configuration of the 
 physical test objects including the enclosure, curve wire and cube of lossy dielectric.
 
-![](https://bitbucket.org/uoyaeg/aegboxts/raw/tip/Physical_Objects/Photos/CWAB-OF-A2.jpg "Physical configuration CWAB-OF-A2")
+![](https://bitbucket.org/uoyaeg/aegboxts/raw/tip/Physical_Objects/Photos/CWAB-OF-A2_small.jpg "Physical configuration CWAB-OF-A2")
 
 The physical test objects may be available to borrow for research purposes. Please contact 
 [Dr Ian Flintoft], <ian.flintoft@york.ac.uk> or [Dr John Dawson], <john.dawson@york.ac.uk> for details.
