@@ -63,16 +63,10 @@ CW and GP elements.
 ## Physical objects
 
 Many parts of the test suite have been implemented physically and measured in the [AEG][]
-laboratories at the [University of York][]. Below are some photographs of the physical 
-test suite elements and the measurement of particular cases.
+laboratories at the [University of York][]. Below is an example configuration of the 
+physical test objects including the enclosure, curve wire and cube of lossy dielectric.
 
-![](https://bytebucket.org/uoyaeg/aegboxtc/wiki/EN.jpg "EN - enclosure")
-
-![](https://bytebucket.org/uoyaeg/aegboxtc/wiki/EN.jpg "CW - curved wire")
-
-![](https://bytebucket.org/uoyaeg/aegboxtc/wiki/PP.jpg "PP - perforated plate")
-
-![](https://bytebucket.org/uoyaeg/aegboxtc/wiki/LM.jpg "LM - loom")
+![](https://bitbucket.org/uoyaeg/aegboxts/raw/tip/Physical_Objects/Photos/CWAB-OF-A2.jpg "Physical configuration CWAB-OF-A2")
 
 The physical test objects may be available to borrow for research purposes. Please contact 
 [Dr Ian Flintoft], <ian.flintoft@york.ac.uk> or [Dr John Dawson], <john.dawson@york.ac.uk> for details.
