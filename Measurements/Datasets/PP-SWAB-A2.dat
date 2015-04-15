@@ -1,10 +1,13 @@
 #
-# This work is licensed under the Creative Commons 
-# Attribution-NoDerivatives 4.0 International License. 
-# To view a copy of this license, visit 
-# http://creativecommons.org/licenses/by-nd/4.0/.
+# AEG Box Test Suite by I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin is 
+# licensed under a Creative Commons Attribution 4.0 International License.
+# Based on a work at https://bitbucket.org/uoyaeg/aegboxts.
 #
-#     f (MHz)   A (dB m^2) 
+# If you use or make derivatives of the test suite please attribute the original
+# work to I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin, Applied
+# Electromagnetics Group, Department of Electronics, University of York, UK.
+#
+#    f (MHz)   A (dB m^2) 
         1e+09     -96.1334
   1.00031e+09     -95.5267
   1.00062e+09     -95.6206

@@ -111,7 +111,8 @@ these or any other aspect of development.
 
 ## Licence
 
-The test suite specification and associated files are licensed under the terms described in the file [Licence.md][].
+The test suite specification and associated files are licensed under a Creative Commons Attribution Licence
+desribed in the file [Licence.md][].
 
 ## Contacts
 

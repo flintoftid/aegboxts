@@ -1,3 +1,12 @@
+#
+# AEG Box Test Suite by I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin is 
+# licensed under a Creative Commons Attribution 4.0 International License.
+# Based on a work at https://bitbucket.org/uoyaeg/aegboxts.
+#
+# If you use or make derivatives of the test suite please attribute the original
+# work to I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin, Applied
+# Electromagnetics Group, Department of Electronics, University of York, UK.
+#
 # LS22 Rational Function Model: 4-poles, Sigma=1.0 S/m
 #           i       Re(ai)       Im(ai)       Re(bi)       Im(bi) 
             4            0            0            1            0

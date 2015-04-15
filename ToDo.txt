@@ -3,8 +3,6 @@
 
 * Photos for each element.
 
-* First pass debranding Specification.
-
 * Format for specification - Word, LaTex?
 
 * Figures - eps/png.

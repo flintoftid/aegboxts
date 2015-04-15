@@ -1,13 +1,16 @@
 //
-// UOY Box Test Suite - Version 1.
+// UOY Box Test Suite - CAD Version 1.
 //
 // Author: Ian Flintoft <ian.flintoft@york.ac.uk>
 //
 //
-// This work is licensed under the Creative Commons 
-// Attribution-NonCommercial 4.0 International License. 
-// To view a copy of this license, visit 
-// http://creativecommons.org/licenses/by-nc/4.0/.
+// AEG Box Test Suite by I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin is 
+// licensed under a Creative Commons Attribution 4.0 International License.
+// Based on a work at https://bitbucket.org/uoyaeg/aegboxts.
+//
+// If you use or make derivatives of the test suite please attribute the original
+// work to I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin, Applied
+// Electromagnetics Group, Department of Electronics, University of York, UK.
 //
 //
 // Notation:

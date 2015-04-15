@@ -1,3 +1,12 @@
+#
+# AEG Box Test Suite by I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin is 
+# licensed under a Creative Commons Attribution 4.0 International License.
+# Based on a work at https://bitbucket.org/uoyaeg/aegboxts.
+#
+# If you use or make derivatives of the test suite please attribute the original
+# work to I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin, Applied
+# Electromagnetics Group, Department of Electronics, University of York, UK.
+#
 #       f(Hz)      Re(e11)      Im(e11) 
         5e+08  8.74602e-11 -9.62248e-11
   5.40201e+08  8.63191e-11 -9.60302e-11
