@@ -22,15 +22,15 @@
 //
 
 // Which elements are present?
-isA2 = 1; // Cube of RAM in left back corner of floor.
-isA1 = 1; // Cube of RAM in centre of floor.
-isPA = 1; // Short probe at port-A.
-isPB = 1; // Short probe at port-B.
+isA2 = 0; // Cube of RAM in left back corner of floor.
+isA1 = 0; // Cube of RAM in centre of floor.
+isPA = 0; // Short probe at port-A.
+isPB = 0; // Short probe at port-B.
 isSW = 0; // Straight wire - requires PA and PB, inconsistent with CW.
-isCW = 1; // Curve wire - requires PA and PB, inconsistent with SW.
+isCW = 0; // Curve wire - requires PA and PB, inconsistent with SW.
 isCF = 0; // Closed front face - inconsistent with GP & PP.
 isGP = 0; // Front plate with large aperures - inconsistent with CF & PP.
-isPP = 1; // Front plate with large aperures - inconsistent with CF & GP.
+isPP = 0; // Front plate with large aperures - inconsistent with CF & GP.
 
 // Primary geometrical parameters.
 EN_depth = 0.500;              // Depth of enclosure (x-direction).

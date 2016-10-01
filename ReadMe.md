@@ -9,7 +9,7 @@ typical Electromagnetic Compatibility ([EMC][]) applications and are therefore
 of particular utility for validating tools for use in this application area. 
 The test suite was primarily developed in the [Department of Electronics][] at the
 [University of York][] and has been used and developed in a number of large 
-research programmes (see [Credits][] below).
+research programmes (see [Credits][#credits] below).
 
 ## Test suite features
 
@@ -80,17 +80,46 @@ distribution.
 
 The following publications have made use of elements of the test suite:
 
-1. I. D. Flintoft, J. F. Dawson, L. Dawson and A. C. Marvin, “A modular test-suite for the validation and verfication of solvers in electromagneitc compatibility applications”, submitted to IEEE Transactions on Electromagnetic Compatibility, June 2015.
+[Flintoft2016]: http://dx.doi.org/10.1109/TEMC.2016.2601658
 
-2. C. Christopoulos, J. F. Dawson, L. Dawson, I. D. Flintoft, O. Hassan, A. C. Marvin, K. Morgan, P. Sewell, C. J. Smartt and Z. Q. Xie, “Characterisation and Modelling of Electromagnetic Interactions in Aircraft”, Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering: Special Issue on FLAVIIR, Vol. 224, No. 4, 2010, pp. 449-458. DOI: [10.1243/09544100JAERO567](http://dx.doi.org/10.1243/09544100JAERO567).
+([Flintoft2016]) I D Flintoft, J F Dawson, L Dawson, A C Marvin, J Alvarez and S G. Garcia, 
+“A modular test suite for the validation and verification of electromagnetic solvers in 
+electromagnetic compatibility applications”, IEEE Transactions on Electromagnetic Compatibility, 
+in press, 2016.
 
-3. D. Tallini, J. F. Dawson, I. D. Flintoft, M. Kunze and I. Munteanu, “Virtual HIRF Tests in CST STUDIO SUITE - A Reverberant Environment Application”, International Conference on Electromagnetics in Advanced Applications (ICEAA2011), Special Session on Numerical Methods for Challenging Multi-Scale Problems Torino, Italy, 12-16 September, 2011. pp. 849-852. DOI: [10.1109/ICEAA.2011.6046454](http://dx.doi.org/10.1109/ICEAA.2011.6046454).
+[Flintoft2013]: http://maxwell.ugr.es/cememc12](http://maxwell.ugr.es/cememc12
 
-4. I. D. Flintoft, J. F. Dawson, L. Dawson, and A. C. Marvin, “A modular test-case for validation of electromagnetic solvers in electromagnetic compatibility applications”, Computational Electromagnetics for EMC 2013 (CEMEMC'13), Granada, Spain, 19-21 March, 2013. URL: [http://maxwell.ugr.es/cememc12](http://maxwell.ugr.es/cememc12).
+([Flintoft2013]) I. D. Flintoft, J. F. Dawson, L. Dawson, and A. C. Marvin, 
+“A modular test-case for validation of electromagnetic solvers in electromagnetic compatibility applications”, 
+Computational Electromagnetics for EMC 2013 (CEMEMC'13), Granada, Spain, 19-21 March, 2013.
 
-5. G. J. Rigden, “EMA3D Numerical Results for the CEMEMC’12 Case 2: Validation BoxEMA3D Numerical Results for the CEMEMC’12 Case 3: LLSC Test for Shielded Harness”, Computational Electromagnetics for EMC 2013 (CEMEMC'13), Granada, Spain, 19-21 March, 2013. URL: [http://maxwell.ugr.es/cememc12](http://maxwell.ugr.es/cememc12).
+[Rigden2013]: http://maxwell.ugr.es/cememc12](http://maxwell.ugr.es/cememc12
 
-6. J. F. Dawson, C. J. Smartt, I. D. Flintoft and C. Christopoulos, “Validating a Numerical Electromagnetic Solver in a Reverberant Environment”, IET Seventh International Conference on Computation in Electromagnetics, 7-10 April 2008, Quality Hotel, Brighton, UK, pp. 42-43. Print ISBN: 978-0-86341-891-4. DOI: [10.1049/cp:20080214](http://dx.doi.org/10.1049/cp:20080214).
+([Rigden2013]) 5. G. J. Rigden, “EMA3D Numerical Results for the CEMEMC’12 Case 2: Validation 
+BoxEMA3D Numerical Results for the CEMEMC’12 Case 3: LLSC Test for Shielded Harness”, 
+Computational Electromagnetics for EMC 2013 (CEMEMC'13), Granada, Spain, 19-21 March, 2013.
+
+[Tallini2011]: http://dx.doi.org/10.1109/ICEAA.2011.6046454
+
+([Tallini2011]) D. Tallini, J. F. Dawson, I. D. Flintoft, M. Kunze and I. Munteanu, 
+“Virtual HIRF Tests in CST STUDIO SUITE - A Reverberant Environment Application”, 
+International Conference on Electromagnetics in Advanced Applications (ICEAA2011), 
+Special Session on Numerical Methods for Challenging Multi-Scale Problems Torino, Italy, 
+12-16 September, 2011. pp. 849-852.
+
+[Christopoulos2010]: http://dx.doi.org/10.1243/09544100JAERO567
+
+([Christopoulos2010]) C. Christopoulos, J. F. Dawson, L. Dawson, I. D. Flintoft, O. Hassan, 
+A. C. Marvin, K. Morgan, P. Sewell, C. J. Smartt and Z. Q. Xie, “Characterisation and Modelling 
+of Electromagnetic Interactions in Aircraft”, Proceedings of the Institution of Mechanical Engineers, 
+Part G: Journal of Aerospace Engineering: Special Issue on FLAVIIR, Vol. 224, No. 4, 2010, pp. 449-458.
+
+[Dawson2008]: http://dx.doi.org/10.1049/cp:20080214
+
+([Dawson2008]) 6. J. F. Dawson, C. J. Smartt, I. D. Flintoft and C. Christopoulos, 
+“Validating a Numerical Electromagnetic Solver in a Reverberant Environment”, 
+IET Seventh International Conference on Computation in Electromagnetics,
+7-10 April 2008, Quality Hotel, Brighton, UK, pp. 42-43.
 
 ## How to contribute
 
@@ -116,7 +145,7 @@ desribed in the file [Licence.md][].
 
 ## Contacts
 
-[Dr Ian Flintoft][], <ian.flintoft@york.ac.uk>
+[Dr Ian Flintoft][], <ian.flintoft@googlemail.com>
 
 [Dr John Dawson][], <john.dawson@york.ac.uk>
 
