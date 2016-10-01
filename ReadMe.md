@@ -69,7 +69,7 @@ physical test objects including the enclosure, curve wire and cube of lossy diel
 ![](https://bitbucket.org/uoyaeg/aegboxts/raw/tip/Physical_Objects/Photos/CWAB-OF-A2_small.jpg "Physical configuration CWAB-OF-A2")
 
 The physical test objects may be available to borrow for research purposes. Please contact 
-[Dr Ian Flintoft], <ian.flintoft@york.ac.uk> or [Dr John Dawson], <john.dawson@york.ac.uk> for details.
+[Dr John Dawson], <john.dawson@york.ac.uk> for details.
 
 ## Measurement data
 
@@ -135,7 +135,7 @@ We welcome any contributions to the development of the test suite, including:
 
 * Simulation results for particular configurations.
 
-Please contact [Dr Ian Flintoft], <ian.flintoft@york.ac.uk>, if you are interested in helping with
+Please contact [Dr Ian Flintoft], <ian.flintoft@googlemail.com>, if you are interested in helping with
 these or any other aspect of development.
 
 ## Licence
