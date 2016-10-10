@@ -1,7 +1,7 @@
 //
 // UOY Box Test Suite - CAD Version 1.
 //
-// Author: Ian Flintoft <ian.flintoft@york.ac.uk>
+// Author: Ian Flintoft <ian.flintoft@googlemail.com>
 //
 //
 // AEG Box Test Suite by I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin is 

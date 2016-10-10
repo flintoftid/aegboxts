@@ -178,7 +178,7 @@ test-suite:
 
 
 
-[Dr Ian Flintoft]: https://scholar.google.co.uk/citations?user=2RZgeUQAAAAJ
+[Dr Ian Flintoft]: https://idflintoft.bitbucket.io
 [Dr John Dawson]: http://www.elec.york.ac.uk/staff/john_dawson.html
 [Dr Linda Dawson]: http://www.elec.york.ac.uk/staff/linda_dawson.html
 [Prof Andy Marvin]: http://www.elec.york.ac.uk/staff/andy_marvin.html

@@ -1,9 +1,138 @@
+2016-10-02  Ian Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ReadMe.md:
+	user: Ian Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	changed ReadMe.md
+
+	 Link update.
+	[3dba00b4535a] [tip]
+
+2016-10-01  Ian Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ReadMe.md:
+	user: Ian Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	changed ReadMe.md
+
+	 Update emails.
+	[abd006ef5765]
+
+	* CAD/aegboxts.geo, Models/Isotropic_Perf_Plate/PP10_L_Model.m,
+	ReadMe.md, ToDo.txt, doc/ToDo.md:
+	user: Ian Flintoft <ian.flintoft@york.ac.uk> branch 'default' added
+	Models/Isotropic_Perf_Plate/PP10_L_Model.m changed CAD/aegboxts.geo
+
+	 Updates.
+
+	changed ReadMe.md
+
+	 Fix links and update references.
+
+	removed ToDo.txt added doc/ToDo.md
+
+	 Moved.
+	[8bfe70dc566c]
+
+2015-04-15  Ian David Flintoft  <ian.flintoft@york.ac.uk>
+
+	* Measurements/ReadMe.md, Measurements/ReadMe.txt:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	added Measurements/ReadMe.md removed Measurements/ReadMe.txt
+	[6afada030efe]
+
+	* CAD/aegboxts.geo, Licence.md, Measurements/Datasets/OF-CWAB-A0.dat,
+	Measurements/Datasets/OF-CWAB-A2.dat, Measurements/Datasets/OF-
+	PAPB-A0.dat, Measurements/Datasets/OF-PAPB-A1.dat,
+	Measurements/Datasets/OF-PAPB-A2.dat, Measurements/Datasets/OF-
+	SWAB-A2.dat, Measurements/Datasets/PP-PAPB-A0.dat,
+	Measurements/Datasets/PP-PAPB-A1.dat, Measurements/Datasets/PP-
+	PAPB-A2.dat, Measurements/Datasets/PP-SWAB-A0.dat,
+	Measurements/Datasets/PP-SWAB-A2.dat,
+	Measurements/Datasets/ReadMe.txt,
+	Measurements/MeasurementReport.doc,
+	Measurements/Probe_Antenna_Factor/probe1-af.dat,
+	Measurements/ReadMe.txt,
+	Models/Isotropic_Perf_Plate/pp10-sparam2.dat,
+	Models/Isotropic_Perf_Plate/pp10-zparam2.dat,
+	Models/LS22_RAM/ls22-perm.dat, Models/LS22_RAM/ls22-pr-4.dat,
+	Models/LS22_RAM/ls22-rf-4.dat, Physical_Objects/Photos/LM_1.jpg,
+	ReadMe.md, Specification/Specification_v1.doc, ToDo.txt:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	added Measurements/ReadMe.txt
+
+	changed CAD/aegboxts.geo changed Licence.md changed
+	Measurements/Datasets/OF-CWAB-A0.dat changed Measurements/Datasets
+	/OF-CWAB-A2.dat changed Measurements/Datasets/OF-PAPB-A0.dat changed
+	Measurements/Datasets/OF-PAPB-A1.dat changed Measurements/Datasets
+	/OF-PAPB-A2.dat changed Measurements/Datasets/OF-SWAB-A2.dat changed
+	Measurements/Datasets/PP-PAPB-A0.dat changed Measurements/Datasets
+	/PP-PAPB-A1.dat changed Measurements/Datasets/PP-PAPB-A2.dat changed
+	Measurements/Datasets/PP-SWAB-A0.dat changed Measurements/Datasets
+	/PP-SWAB-A2.dat changed Measurements/MeasurementReport.doc changed
+	Measurements/Probe_Antenna_Factor/probe1-af.dat changed
+	Models/Isotropic_Perf_Plate/pp10-sparam2.dat changed
+	Models/Isotropic_Perf_Plate/pp10-zparam2.dat changed
+	Models/LS22_RAM/ls22-perm.dat changed Models/LS22_RAM/ls22-pr-4.dat
+	changed Models/LS22_RAM/ls22-rf-4.dat changed ReadMe.md changed
+	Specification/Specification_v1.doc changed ToDo.txt removed
+	Measurements/Datasets/ReadMe.txt removed
+	Physical_Objects/Photos/LM_1.jpg
+	[3a78f93c39d8]
+
+2015-04-14  Ian David Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ReadMe.md:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	changed ReadMe.md
+	[e2f9ea0dcd51]
+
+	* ReadMe.md:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	changed ReadMe.md
+	[d0abc6b6a3c6]
+
+	* Physical_Objects/Photos/CWAB-OF-A2_small.jpg,
+	Physical_Objects/Photos/LM.jpg,
+	Physical_Objects/Photos/LM_small.jpg:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	added Physical_Objects/Photos/CWAB-OF-A2_small.jpg added
+	Physical_Objects/Photos/LM.jpg added
+	Physical_Objects/Photos/LM_small.jpg
+	[c859a238c4b4]
+
+	* Physical_Objects/Photos/LM_1.jpg, ReadMe.md:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+
+	added Physical_Objects/Photos/LM_1.jpg changed ReadMe.md
+	[03878eccf793]
+
 2015-04-13  Ian David Flintoft  <ian.flintoft@york.ac.uk>
+
+	* ChangeLog.txt, ReadMe.md:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+	changed CAD/aegboxts.geo changed CAD/overview.jpg changed
+	ChangeLog.txt changed Licence.md changed Measurements/Datasets/OF-
+	CWAB-A0.dat changed Measurements/Datasets/OF-CWAB-A2.dat changed
+	Measurements/Datasets/OF-PAPB-A0.dat changed Measurements/Datasets
+	/OF-PAPB-A1.dat changed Measurements/Datasets/OF-PAPB-A2.dat changed
+	Measurements/Datasets/OF-SWAB-A2.dat changed Measurements/Datasets
+	/PP-PAPB-A0.dat changed Measurements/Datasets/PP-PAPB-A1.dat changed
+	Measurements/Datasets/PP-PAPB-A2.dat changed Measurements/Datasets
+	/PP-SWAB-A0.dat changed Measurements/Datasets/PP-SWAB-A2.dat changed
+	Measurements/Datasets/ReadMe.txt changed
+	Measurements/MeasurementReport.doc changed
+	Measurements/Probe_Antenna_Factor/probe1-af.dat changed
+	Models/Isotropic_Perf_Plate/pp10-sparam2.dat changed
+	Models/Isotropic_Perf_Plate/pp10-zparam2.dat changed
+	Models/LS22_RAM/ls22-perm.dat changed Models/LS22_RAM/ls22-pr-4.dat
+	changed Models/LS22_RAM/ls22-rf-4.dat changed
+	Physical_Objects/Photos/CWAB-OF-A2.jpg changed ReadMe.md changed
+	Specification/Specification_v1.doc changed ToDo.txt
+	[f3414a2b62db]
 
 	* CAD/overview.jpg:
 	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
 	added CAD/overview.jpg
-	[dceb5146fc71] [tip]
+	[dceb5146fc71]
 
 2015-04-13  Ian Flintoft  <ian.flintoft@york.ac.uk>
 
@@ -21,6 +150,12 @@
 	branch 'default' changed ReadMe.md
 	[bd07176e8178]
 
+	* Physical_Objects/Photos/CWAB-OF-A2.jpg:
+	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
+
+	added Physical_Objects/Photos/CWAB-OF-A2.jpg
+	[b5c770c96494]
+
 2015-04-13  Ian Flintoft  <ian.flintoft@york.ac.uk>
 
 	* ReadMe.md:
@@ -28,12 +163,6 @@
 	[aa66e2d23c6c]
 
 2015-04-13  Ian David Flintoft  <ian.flintoft@york.ac.uk>
-
-	* Physical_Objects/Photos/CWAB-OF-A2.jpg:
-	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
-
-	added Physical_Objects/Photos/CWAB-OF-A2.jpg
-	[b5c770c96494]
 
 	* ReadMe.md:
 	user: Ian David Flintoft <ian.flintoft@york.ac.uk> branch 'default'
