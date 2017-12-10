@@ -7,8 +7,8 @@ is a suite of validation test cases for computational electromagnetics ([CEM][])
 simulation tools. The test-cases were designed with to be representative of 
 typical Electromagnetic Compatibility ([EMC][]) applications and are therefore 
 of particular utility for validating tools for use in this application area. 
-The test suite was primarily developed in the [Department of Electronics][] at the
-[University of York][] and has been used and developed in a number of large 
+The test suite was primarily developed in the [Department of Electronic Engineering][]
+at the [University of York][] and has been used and developed in a number of large 
 research programmes (see [Credits][#credits] below).
 
 ## Test suite features
@@ -69,16 +69,59 @@ physical test objects including the enclosure, curve wire and cube of lossy diel
 ![](https://bitbucket.org/uoyaeg/aegboxts/raw/tip/Physical_Objects/Photos/CWAB-OF-A2_small.jpg "Physical configuration CWAB-OF-A2")
 
 The physical test objects may be available to borrow for research purposes. Please contact 
-[Dr John Dawson], <john.dawson@york.ac.uk> for details.
+[Dr John Dawson][], <john.dawson@york.ac.uk> for details.
 
 ## Measurement data
 
 The data-sets for a number of test-cases that have been measured are available in the test suite 
 distribution.
 
-## Publications
+## How to contribute
 
-The following publications have made use of elements of the test suite:
+We welcome any contributions to the development of the test suite, including:
+
+* CAD files.
+
+* Meshes.
+
+* Improving the user documentation.
+
+* Additional elements and test cases.
+
+* Simulation results for particular configurations.
+
+Please contact [Dr Ian Flintoft][], <ian.flintoft@googlemail.com>, if you are interested in helping with these or any other aspect of development.
+
+## Licence
+
+The test suite specification and associated files are licensed under a Creative Commons Attribution Licence described in the file [Licence.md][].
+
+## Contacts
+
+[Dr Ian Flintoft][], <ian.flintoft@googlemail.com>
+
+[Dr John Dawson][], <john.dawson@york.ac.uk>
+
+## Credits
+
+The components of the test-suite have been developed over a number of years and research programmes by 
+[Dr Ian Flintoft][], [Dr John Dawson][], [Dr Linda Dawson][] and [Prof Andy Marvin][] in the [AEG][].
+We grateful acknowledge the following sources of support:
+
+1. The [FLAVIIR][] project which was a five year research programme looking at technologies for future 
+   unmanned air vehicles (UAV) funded jointly by [BAES][] and [EPSRC][].
+
+2. The [EU FP7][] High Intensity Radiated Field Synthetic Environment [HIRF-SE][] research programme
+   that developed a simulation framework to aid aeronautical certification against electromagnetic threats.
+
+In addition we acknowledge the following people for there specific contributions and guidance on various aspects of the
+test-suite:
+
+1. John-Phillipe Parmantier from [ONERA][].
+
+2. John Kazik from [IDS-UK][].
+
+## Publication using the test-suite
 
 [Flintoft2016]: http://dx.doi.org/10.1109/TEMC.2016.2601658
 
@@ -121,53 +164,6 @@ Part G: Journal of Aerospace Engineering: Special Issue on FLAVIIR, Vol. 224, No
 IET Seventh International Conference on Computation in Electromagnetics,
 7-10 April 2008, Quality Hotel, Brighton, UK, pp. 42-43.
 
-## How to contribute
-
-We welcome any contributions to the development of the test suite, including:
-
-* CAD files.
-
-* Meshes.
-
-* Improving the user documentation.
-
-* Additional elements and test cases.
-
-* Simulation results for particular configurations.
-
-Please contact [Dr Ian Flintoft], <ian.flintoft@googlemail.com>, if you are interested in helping with
-these or any other aspect of development.
-
-## Licence
-
-The test suite specification and associated files are licensed under a Creative Commons Attribution Licence
-desribed in the file [Licence.md][].
-
-## Contacts
-
-[Dr Ian Flintoft][], <ian.flintoft@googlemail.com>
-
-[Dr John Dawson][], <john.dawson@york.ac.uk>
-
-## Credits
-
-The components of the test-suite have been developed over a number of years and research programmes by 
-[Dr Ian Flintoft][], [Dr John Dawson][], [Dr Linda Dawson][] and [Prof Andy Marvin][] in the [AEG][].
-We grateful acknowledge the following sources of support:
-
-1. The [FLAVIIR][] project which was a five year research programme looking at technologies for future 
-   unmanned air vehicles (UAV) funded jointly by [BAES][] and [EPSRC][].
-
-2. The [EU FP7][] High Intensity Radiated Field Synthetic Environment [HIRF-SE][] research programme
-   that developed a simulation framework to aid aeronautical certification against electromagnetic threats.
-
-In addition we acknowledge the following people for there specific contributions and guidance on various aspects of the
-test-suite:
-
-1. John-Phillipe Parmantier from [ONERA][].
-
-2. John Kazik from [IDS-UK][].
-
 ## Related links
 
 * The [AEG][] structured mesh generator [AEG Mesher](https://bitbucket.org/uoyaeg/aegmesher).
@@ -177,15 +173,13 @@ test-suite:
 * The [GGIEMR][] TLM solver [GGI_TLM](https://github.com/ggiemr/GGI_TLM). 
 
 
-
-[Dr Ian Flintoft]: https://idflintoft.bitbucket.io
-[Dr John Dawson]: http://www.elec.york.ac.uk/staff/john_dawson.html
-[Dr Linda Dawson]: http://www.elec.york.ac.uk/staff/linda_dawson.html
-[Prof Andy Marvin]: http://www.elec.york.ac.uk/staff/andy_marvin.html
-
 [University of York]: http://www.york.ac.uk
-[Department of Electronics]: http://www.elec.york.ac.uk
-[AEG]: http://www.elec.york.ac.uk/research/physLayer/appliedEM.html
+[Department of Electronic Engineering]: https://www.york.ac.uk/electronic-engineering
+[AEG]: https://www.york.ac.uk/electronic-engineering/research/communication-technologies/applied-electromagnetics-devices
+[Dr Ian Flintoft]: https://idflintoft.bitbucket.io
+[Dr John Dawson]: https://www.york.ac.uk/electronic-engineering/staff/john_dawson
+[Dr Linda Dawson]: https://pure.york.ac.uk/portal/en/researchers/linda-dawson(0cf9fb8c-2504-4a9f-a54a-0c3661ae7d62).html
+[Prof Andy Marvin]: https://www.york.ac.uk/electronic-engineering/staff/andy_marvin
 [GGIEMR]: http://www.nottingham.ac.uk/research/groups/ggiemr
 [FLAVIIR]: http://www.flaviir.com
 [HIRF-SE]: http://ec.europa.eu/research/transport/projects/items/hirf_se_en.htm
@@ -194,11 +188,9 @@ test-suite:
 [EPSRC]: http://www.epsrc.ac.uk
 [BAES]: http://www.baesystems.com
 [EU FP7]: http://cordis.europa.eu/fp7/home_en.html
-
 [CEM]: http://en.wikipedia.org/wiki/Computational_electromagnetics
 [EMC]: http://en.wikipedia.org/wiki/Electromagnetic_compatibility
 [Gmsh]: http://geuz.org/gmsh
 [Mercurial]: http://mercurial.selenic.com
-
 [Licence.md]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Licence.md
 [Specification]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Specification/Specification_v1.doc
