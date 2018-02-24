@@ -8,8 +8,9 @@ simulation tools. The test-cases were designed with to be representative of
 typical Electromagnetic Compatibility ([EMC][]) applications and are therefore 
 of particular utility for validating tools for use in this application area. 
 The test suite was primarily developed in the [Department of Electronic Engineering][]
-at the [University of York][] and has been used and developed in a number of large 
-research programmes (see [Credits][#credits] below).
+at the [University of York][] as part of a research theme on
+[Validation of Computational Electromagnetic Solvers][] and has been used and developed 
+in a number of large research programmes (see [Credits](#credits) below).
 
 ## Test suite features
 
@@ -102,7 +103,7 @@ The test suite specification and associated files are licensed under a Creative 
 
 [Dr John Dawson][], <john.dawson@york.ac.uk>
 
-## Credits
+## Credits <a name="credits"></a>
 
 The components of the test-suite have been developed over a number of years and research programmes by 
 [Dr Ian Flintoft][], [Dr John Dawson][], [Dr Linda Dawson][] and [Prof Andy Marvin][] in the [AEG][].
@@ -123,7 +124,7 @@ test-suite:
 
 ## Publication using the test-suite
 
-[Flintoft2016]: http://dx.doi.org/10.1109/TEMC.2016.2601658
+[Flintoft2016]: https://doi.org/10.1109/TEMC.2016.2601658
 
 ([Flintoft2016]) I D Flintoft, J F Dawson, L Dawson, A C Marvin, J Alvarez and S G. Garcia, 
 “A modular test suite for the validation and verification of electromagnetic solvers in 
@@ -138,11 +139,11 @@ Computational Electromagnetics for EMC 2013 (CEMEMC'13), Granada, Spain, 19-21 M
 
 [Rigden2013]: http://maxwell.ugr.es/cememc12](http://maxwell.ugr.es/cememc12
 
-([Rigden2013]) 5. G. J. Rigden, “EMA3D Numerical Results for the CEMEMC’12 Case 2: Validation 
+([Rigden2013]) G. J. Rigden, “EMA3D Numerical Results for the CEMEMC’12 Case 2: Validation 
 BoxEMA3D Numerical Results for the CEMEMC’12 Case 3: LLSC Test for Shielded Harness”, 
 Computational Electromagnetics for EMC 2013 (CEMEMC'13), Granada, Spain, 19-21 March, 2013.
 
-[Tallini2011]: http://dx.doi.org/10.1109/ICEAA.2011.6046454
+[Tallini2011]: https://doi.org/10.1109/ICEAA.2011.6046454
 
 ([Tallini2011]) D. Tallini, J. F. Dawson, I. D. Flintoft, M. Kunze and I. Munteanu, 
 “Virtual HIRF Tests in CST STUDIO SUITE - A Reverberant Environment Application”, 
@@ -150,27 +151,59 @@ International Conference on Electromagnetics in Advanced Applications (ICEAA2011
 Special Session on Numerical Methods for Challenging Multi-Scale Problems Torino, Italy, 
 12-16 September, 2011. pp. 849-852.
 
-[Christopoulos2010]: http://dx.doi.org/10.1243/09544100JAERO567
+[Christopoulos2010]: https://doi.org/10.1243/09544100JAERO567
 
 ([Christopoulos2010]) C. Christopoulos, J. F. Dawson, L. Dawson, I. D. Flintoft, O. Hassan, 
 A. C. Marvin, K. Morgan, P. Sewell, C. J. Smartt and Z. Q. Xie, “Characterisation and Modelling 
 of Electromagnetic Interactions in Aircraft”, Proceedings of the Institution of Mechanical Engineers, 
 Part G: Journal of Aerospace Engineering: Special Issue on FLAVIIR, Vol. 224, No. 4, 2010, pp. 449-458.
 
-[Dawson2008]: http://dx.doi.org/10.1049/cp:20080214
+[Dawson2008]: https://doi.org/10.1049/cp:20080214
 
-([Dawson2008]) 6. J. F. Dawson, C. J. Smartt, I. D. Flintoft and C. Christopoulos, 
+([Dawson2008]) J. F. Dawson, C. J. Smartt, I. D. Flintoft and C. Christopoulos, 
 “Validating a Numerical Electromagnetic Solver in a Reverberant Environment”, 
 IET Seventh International Conference on Computation in Electromagnetics,
 7-10 April 2008, Quality Hotel, Brighton, UK, pp. 42-43.
 
 ## Related links
 
+* The [Validation of Computational Electromagnetic Solvers][] project.
+
+* [IEEE Std 1597.1-2008][] on validation of CEM simulations.
+
+* Ed Miiler's article in on verification and validation in the IEEE EMC Society Newsletter ([Miller2006][]).
+
 * The [AEG][] structured mesh generator [AEG Mesher](https://bitbucket.org/uoyaeg/aegmesher).
 
 * The [AEG][] FDTD solver [Vulture](https://bitbucket.org/uoyaeg/vulture). 
 
 * The [GGIEMR][] TLM solver [GGI_TLM](https://github.com/ggiemr/GGI_TLM). 
+
+## References
+
+[IEEE Std 1597.1-2008]: https://doi.org/10.1109/IEESTD.2008.4957854
+
+([IEEE Std 1597.1-2008]) IEEE Std 1597.1-2008, "IEEE Standard for Validation of 
+Computational Electromagnetics Computer Modeling and Simulations", 2008.
+
+[Miller2006]: https://www.emcs.org/acstrial/newsletters/fall06/practical.pdf
+
+([Miller2006]) E. Miller, "Verification and Validation of Computational Electromagnetics Software",
+IEEE EMC Society Newsletter, pp. 66-84, Fall 2006.
+
+[Duffy2006a]: https://doi.org/10.1109/TEMC.2006.879358
+
+([Duffy2006a]) A. P. Duffy, A. J. M. Martin, A. Orlandi, G. Antonini, T. M. Benson and M. S. Woolfson, 
+"Feature selective validation (FSV) for validation of computational electromagnetics (CEM): 
+Part I - The FSV method", IEEE Transactions on Electromagnetic Compatibility, vol. 48, no. 3, 
+pp. 449-459, Aug. 2006.
+
+[Orlandi2006]: http://doi.org/10.1109/TEMC.2006.879360
+
+([Orlandi2006]) A. Orlandi, A. P. Duffy, B. Archambeault, G. Antonini, D. E. Coleby and S. Connor, 
+"Feature selective validation (FSV) for validation of computational electromagnetics (CEM): 
+Part II - Assessment of FSV performance", IEEE Transactions on Electromagnetic Compatibility, 
+vol. 48, no. 3, pp. 460-467, Aug. 2006.
 
 
 [University of York]: http://www.york.ac.uk
@@ -194,3 +227,4 @@ IET Seventh International Conference on Computation in Electromagnetics,
 [Mercurial]: http://mercurial.selenic.com
 [Licence.md]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Licence.md
 [Specification]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Specification/Specification_v1.doc
+[Validation of Computational Electromagnetic Solvers]: https://www.researchgate.net/project/Validation-of-computational-electromagnetic-solvers
