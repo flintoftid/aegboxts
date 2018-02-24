@@ -10,7 +10,7 @@ of particular utility for validating tools for use in this application area.
 The test suite was primarily developed in the [Department of Electronic Engineering][]
 at the [University of York][] as part of a research theme on
 [Validation of Computational Electromagnetic Solvers][] and has been used and developed 
-in a number of large research programmes (see [Credits](#credits) below).
+in a number of large research programmes (see Credits below).
 
 ## Test suite features
 
@@ -103,7 +103,7 @@ The test suite specification and associated files are licensed under a Creative 
 
 [Dr John Dawson][], <john.dawson@york.ac.uk>
 
-## Credits <a name="credits"></a>
+## Credits
 
 The components of the test-suite have been developed over a number of years and research programmes by 
 [Dr Ian Flintoft][], [Dr John Dawson][], [Dr Linda Dawson][] and [Prof Andy Marvin][] in the [AEG][].
