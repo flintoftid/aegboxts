@@ -1,4 +1,4 @@
-![](https://bitbucket.org/uoyaeg/aegboxts/raw/tip/CAD/overview.jpg "AEG Box Test Suite")
+![](https://github.com/flintoftid/aegboxts/blob/master/CAD/overview.jpg "AEG Box Test Suite")
 
 # AEG Box Test Suite: A modular test suite for validation of electromagnetic solvers
 
@@ -67,7 +67,7 @@ Many parts of the test suite have been implemented physically and measured in th
 laboratories at the [University of York][]. Below is an example configuration of the 
 physical test objects including the enclosure, curve wire and cube of lossy dielectric.
 
-![](https://bitbucket.org/uoyaeg/aegboxts/raw/tip/Physical_Objects/Photos/CWAB-OF-A2_small.jpg "Physical configuration CWAB-OF-A2")
+![](https://github.com/flintoftid/aegboxts/blob/master/Physical_Objects/Photos/CWAB-OF-A2_small.jpg "Physical configuration CWAB-OF-A2")
 
 The physical test objects may be available to borrow for research purposes. Please contact 
 [Dr John Dawson][], <john.dawson@york.ac.uk> for details.
@@ -173,9 +173,9 @@ IET Seventh International Conference on Computation in Electromagnetics,
 
 * Ed Miiler's article in on verification and validation in the IEEE EMC Society Newsletter ([Miller2006][]).
 
-* The [AEG][] structured mesh generator [AEG Mesher](https://bitbucket.org/uoyaeg/aegmesher).
+* The [AEG][] structured mesh generator [AEG Mesher](https://github.com/flintoft/aegmesher).
 
-* The [AEG][] FDTD solver [Vulture](https://bitbucket.org/uoyaeg/vulture). 
+* The [AEG][] FDTD solver [Vulture](https://github.com/flintoftid/vulture). 
 
 * The [GGIEMR][] TLM solver [GGI_TLM](https://github.com/ggiemr/GGI_TLM). 
 
@@ -209,7 +209,7 @@ vol. 48, no. 3, pp. 460-467, Aug. 2006.
 [University of York]: http://www.york.ac.uk
 [Department of Electronic Engineering]: https://www.york.ac.uk/electronic-engineering
 [AEG]: https://www.york.ac.uk/electronic-engineering/research/communication-technologies/applied-electromagnetics-devices
-[Dr Ian Flintoft]: https://idflintoft.bitbucket.io
+[Dr Ian Flintoft]: https://flintoftd.github.io
 [Dr John Dawson]: https://www.york.ac.uk/electronic-engineering/staff/john_dawson
 [Dr Linda Dawson]: https://pure.york.ac.uk/portal/en/researchers/linda-dawson(0cf9fb8c-2504-4a9f-a54a-0c3661ae7d62).html
 [Prof Andy Marvin]: https://www.york.ac.uk/electronic-engineering/staff/andy_marvin
@@ -224,7 +224,7 @@ vol. 48, no. 3, pp. 460-467, Aug. 2006.
 [CEM]: http://en.wikipedia.org/wiki/Computational_electromagnetics
 [EMC]: http://en.wikipedia.org/wiki/Electromagnetic_compatibility
 [Gmsh]: http://geuz.org/gmsh
-[Mercurial]: http://mercurial.selenic.com
-[Licence.md]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Licence.md
-[Specification]: https://bitbucket.org/uoyaeg/aegboxts/src/tip/Specification/Specification_v1.doc
+[git]: http://git-scm.com
+[Licence.md]: https://github.com/flintoftid/aegboxts/blob/master/Licence.md
+[Specification]: https://github.com/flintoftid/aegboxts/blob/master/Specification/Specification_v1.doc
 [Validation of Computational Electromagnetic Solvers]: https://www.researchgate.net/project/Validation-of-computational-electromagnetic-solvers

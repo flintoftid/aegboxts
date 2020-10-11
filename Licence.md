@@ -4,7 +4,7 @@
 
 AEG Box Test Suite by I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin is 
 licensed under a Creative Commons Attribution 4.0 International License.
-Based on a work at https://bitbucket.org/uoyaeg/aegboxts.
+Based on a work at https://github.com/flintoftid/aegboxts.
 
 If you use or make derivatives of the test suite please attribute the original
 work to I. D. Flintoft, L. Dawson, J. F. Dawson and A. C. Marvin, Applied
